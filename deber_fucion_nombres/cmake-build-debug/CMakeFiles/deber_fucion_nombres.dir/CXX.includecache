@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/PC/CLionProjects/deber_fucion_nombres/main.cpp
+iostream
+C:/Users/PC/CLionProjects/deber_fucion_nombres/iostream
+string
+C:/Users/PC/CLionProjects/deber_fucion_nombres/string
+
